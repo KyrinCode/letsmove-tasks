@@ -4,7 +4,7 @@ PACKAGE_ID=0x33dae8c1b1fcf47da7718194c0ae1c5e7bf903ac049b3dc51b8610030dd27e0c
 # IMAGE_URL="https://avatars.githubusercontent.com/u/30864546?s=40&v=4"
 # STATE_ID=0xabda40be35d691fe787072982dcf97d5356b08fde41c113143f89269b60d8c54
 
-# sui client call  --package $PACKAGE_ID \
+# sui client call --package $PACKAGE_ID \
 #                 --module kyrincode_nft \
 #                 --function mint \
 #                 --args "KyrinCode NFT Name" "KyrinCode NFT Description" $IMAGE_URL $STATE_ID \
